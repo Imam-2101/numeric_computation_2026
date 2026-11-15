@@ -1,0 +1,34 @@
+KUMPULAN PROMPT AI - KOMPUTASI NUMERIK
+Nama : Imam Bagus Saputra | NIM : 202511420024 | Prodi : Teknik Informatika
+AI   : Claude (Anthropic), claude.ai | November 2026
+Catatan: ini ringkasan prompt yang saya ketik; kalimat dalam tanda kutip
+diambil dari prompt asli.
+
+UMUM (persiapan repository)
+- Meminta bantuan mengerjakan tugas dan menunggu perintah, lalu menanyakan
+  struktur folder, isi README.md, dan file akun (account.txt).
+- Menyusun file kumpulan prompt ini.
+
+BAGIAN 1. SPL 3 VARIABEL - ELIMINASI GAUSS
+1. Meminta memilih satu format algoritma: "cukup salah satu saja jangan tiga
+   tiga nya antara pseudocode, algoritma, flowcart".
+2. Mengirim kode eliminasi Gauss saya dan meminta: "algoritma nya sesuaikan
+   dengan code spl 3 variabel" serta "sepurnakan code nya biar lebih mudah".
+3. Meminta kode dipisah per cell dan diberi penjelasan: "buatkan pisah per
+   cell berikan penjelasan di setiap cell", lalu menanyakan output tiap cell.
+4. Meminta penjelasan lebih rinci dengan bahasa sederhana: "lebih detailkan
+   setiap eksekusinya", dengan kode tetap sama.
+5. Meminta versi kode satu cell penuh dan versi bersih (tanpa komentar).
+
+
+BAGIAN 2. BISECTION (METODE BAGIDUA)
+1. Mengirim materi dosen (Bisection.pdf) sebagai acuan.
+2. Menanyakan "apakah sudah sesuai materi", lalu meminta "sesuaikan semua"
+   dengan tabel dan iterasi seperti di materi.
+3. Meminta perombakan tanpa fitur tambahan: "rubah semua nya jangan di
+   tambah, tabel lebih interaktif, import juga boleh".
+4. Meluruskan maksud: "diagram bukan tabel", dan "metodenya gunakan acuan
+   dengan materi saya sekalian diagram nya".
+5. Meminta penjelasan per cell lebih rinci dan diagram lebih kecil tapi
+   jelas: "lebih detailkan dan jangan besar besar untuk diagram nya".
+6. Meminta algoritma Bisection yang sesuai dengan kode.
